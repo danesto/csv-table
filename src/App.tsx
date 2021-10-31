@@ -1,5 +1,4 @@
-import React, {useRef} from 'react';
-import logo from './logo.svg';
+import {useRef} from 'react';
 import {ExportToCsvButton} from './components/ExportToCsvButton';
 import {GrDocumentCsv} from 'react-icons/gr';
 import styles from './styles.module.scss';
