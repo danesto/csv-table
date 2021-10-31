@@ -1,0 +1,28 @@
+.csvButton {
+    border: none;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 5px;
+    background-color: #107C41;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    width: max-content;
+    &:hover {
+        transition: 500ms;
+        background-color: #33C481;
+    }
+    a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: 6  00;
+        text-transform: uppercase;
+        font-size: 12px;
+    }
+    .icon {
+        margin-right: 5px;
+        svg path {
+            stroke: #fff;
+        }
+    }
+}

@@ -1,2 +1,3 @@
 # csv-table
-Convert any table to CSV file
+
+Export any table to CSV
